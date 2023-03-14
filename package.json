@@ -12,7 +12,8 @@
   "author": "Oleh Husak",
   "license": "ISC",
   "devDependencies": {
-    "nodemon": "^2.0.21"
+    "nodemon": "^2.0.21",
+    "prettier": "^2.8.4"
   },
   "dependencies": {
     "body-parser": "^1.20.2",
